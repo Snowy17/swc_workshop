@@ -1,0 +1,5 @@
+# things to ignore
+
+*.zip
+data/
+*/
